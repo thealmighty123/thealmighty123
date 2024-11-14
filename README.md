@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thealmighty123 from HCM UIT
 - 👀 I’m interested in AI, Cybersecurity.
-- 🌱 I’m currently learning cp and aiming AI.
+- 🌱 I’m currently learning cp, some basics about AI.
 - 💞️ I’m looking to collaborate on AI project.
 - 📫 How to reach me : duyhungbmt06@gmail.com
 
